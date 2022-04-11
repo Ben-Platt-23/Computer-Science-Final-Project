@@ -1,0 +1,10 @@
+Write a program which builds
+
+    A whole word dictionary
+    By asking for user input
+    To decide whether to include
+    Each 5 letter word in words.txt
+
+Write a program which
+
+    allows a user to play worlde with your worlde word dictionary
